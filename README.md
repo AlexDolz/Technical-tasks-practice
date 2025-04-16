@@ -1,0 +1,3 @@
+# Technical tasks practice
+
+# JavaScript
